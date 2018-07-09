@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Extend task" max_length="40" name="x_snc_extend_cmdb_extend_task" type="collection">
+        <element label="Column in new scope" max_length="40" name="x_snc_new_scope_column_in_new_scope" type="string"/>
+    </element>
+</database>
