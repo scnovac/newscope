@@ -2,5 +2,6 @@
 <database>
     <element extends="task" label="Extend task" max_length="40" name="x_snc_extend_cmdb_extend_task" type="collection">
         <element label="Column in new scope" max_length="40" name="x_snc_new_scope_column_in_new_scope" type="string"/>
+        <element label="u_straße" max_length="40" name="x_snc_new_scope_u_stra_e" type="string"/>
     </element>
 </database>
