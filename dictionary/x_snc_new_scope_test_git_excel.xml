@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Test Git Excel" max_length="40" name="x_snc_new_scope_test_git_excel" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="straße" max_length="40" name="u_straße" type="string"/>
+    </element>
+</database>
