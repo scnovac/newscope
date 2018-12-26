@@ -31,6 +31,8 @@
         <element>x_snc_new_scope_column_in_new_scope</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
@@ -52,7 +54,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-07-09 08:05:53</sys_created_on>
-        <sys_id>ccbf1fde4fc0a340bc53c5c18110c7e1</sys_id>
+        <sys_id>ac456afa4f29e340c920fdb28110c7a2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Column in new scope</sys_name>
         <sys_package display_value="New Scope" source="x_snc_new_scope">3e8c0bff4f439340e293fdb28110c701</sys_package>
@@ -60,7 +62,7 @@
         <sys_scope display_value="New Scope">3e8c0bff4f439340e293fdb28110c701</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_extend_cmdb_extend_task_x_snc_new_scope_column_in_new_scope</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-08-23 10:39:48</sys_updated_on>
+        <sys_updated_on>2018-11-07 09:15:42</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

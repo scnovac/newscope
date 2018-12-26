@@ -5,22 +5,22 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>x_snc_new_scope_test_git</name>
+        <name>x_snc_extend_cmdb_extend_task</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-08-23 10:47:29</sys_created_on>
-        <sys_id>a071eb524f04a340bc53c5c18110c78a</sys_id>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-08-23 10:39:48</sys_created_on>
+        <sys_id>ac456afa4f29e340c920fdb28110c7b5</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_snc_new_scope_test_git</sys_name>
+        <sys_name>x_snc_extend_cmdb_extend_task</sys_name>
         <sys_package display_value="New Scope" source="x_snc_new_scope">3e8c0bff4f439340e293fdb28110c701</sys_package>
         <sys_policy/>
         <sys_scope display_value="New Scope">3e8c0bff4f439340e293fdb28110c701</sys_scope>
-        <sys_update_name>ua_table_licensing_config_a071eb524f04a340bc53c5c18110c78a</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-08-23 10:47:29</sys_updated_on>
+        <sys_update_name>ua_table_licensing_config_ac456afa4f29e340c920fdb28110c7b5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-08-23 10:39:48</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>

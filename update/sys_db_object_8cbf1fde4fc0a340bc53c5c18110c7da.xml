@@ -4,6 +4,7 @@
         <access/>
         <actions_access>true</actions_access>
         <alter_access>true</alter_access>
+        <caller_access/>
         <client_scripts_access>true</client_scripts_access>
         <configuration_access>false</configuration_access>
         <create_access>true</create_access>
@@ -17,7 +18,7 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">c9e3e5749902130059a648f6b99797aa</super_class>
+        <super_class display_value="Task" name="task">2c1cf0754f302300c920fdb28110c78f</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
