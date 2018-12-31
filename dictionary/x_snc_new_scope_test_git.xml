@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="sys_import_set_row" label="test git" max_length="40" name="x_snc_new_scope_test_git" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="straÃŸe" max_length="40" name="u_straãÿe" type="string"/>
-    </element>
+    <element extends="sys_import_set_row" label="test git" max_length="40" name="x_snc_new_scope_test_git" type="collection"/>
 </database>
