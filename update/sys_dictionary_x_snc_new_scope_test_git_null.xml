@@ -49,7 +49,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-08-23 10:47:29</sys_created_on>
-        <sys_id>b8108d1c4f3aeb00352fc5c18110c76b</sys_id>
+        <sys_id>fff789d04f7aeb00352fc5c18110c7b4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_new_scope_test_git</sys_name>
         <sys_package display_value="New Scope" source="x_snc_new_scope">3e8c0bff4f439340e293fdb28110c701</sys_package>
@@ -57,7 +57,7 @@
         <sys_scope display_value="New Scope">3e8c0bff4f439340e293fdb28110c701</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_new_scope_test_git_NULL</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-12-31 10:47:16</sys_updated_on>
+        <sys_updated_on>2018-12-31 11:21:53</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
