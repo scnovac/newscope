@@ -54,15 +54,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-01-02 17:04:40</sys_created_on>
-        <sys_id>a999e449dbb663009bae1c043996192b</sys_id>
+        <sys_id>dbeba08ddbb663009bae1c043996195d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>t02</sys_name>
         <sys_package display_value="New Scope" source="x_snc_new_scope">3e8c0bff4f439340e293fdb28110c701</sys_package>
         <sys_policy/>
         <sys_scope display_value="New Scope">3e8c0bff4f439340e293fdb28110c701</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_extend_cmdb_extend_task_x_snc_new_scope_t02</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-02 17:04:40</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-01-02 17:14:42</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
