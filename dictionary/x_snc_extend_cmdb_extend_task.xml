@@ -5,6 +5,7 @@
         <element attributes="edge_encryption_enabled=true" label="Duplicate" max_length="40" name="x_snc_new_scope_duplicate" type="string"/>
         <element label="i01" max_length="40" name="x_snc_new_scope_i01" type="string"/>
         <element label="i02" max_length="40" name="x_snc_new_scope_i02" type="string"/>
+        <element label="s02" max_length="40" name="x_snc_new_scope_s02" type="string"/>
         <element label="t02" max_length="40" name="x_snc_new_scope_t02" type="string"/>
         <element label="u_straße2" max_length="40" name="x_snc_new_scope_u_stra_e" type="string"/>
     </element>
