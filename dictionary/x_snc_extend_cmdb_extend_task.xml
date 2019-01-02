@@ -4,6 +4,7 @@
         <element label="Column in new scope" max_length="40" name="x_snc_new_scope_column_in_new_scope" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Duplicate" max_length="40" name="x_snc_new_scope_duplicate" type="string"/>
         <element label="i01" max_length="40" name="x_snc_new_scope_i01" type="string"/>
+        <element label="T01" max_length="40" name="x_snc_new_scope_t01" type="string"/>
         <element label="u_straße2" max_length="40" name="x_snc_new_scope_u_stra_e" type="string"/>
     </element>
 </database>
