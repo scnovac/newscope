@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>newscope</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-09 15:17:10</sys_created_on>
+        <sys_id>9e24181f4f7e6340c920fdb28110c71c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NewScope</sys_name>
+        <sys_package display_value="New Scope" source="x_snc_new_scope">3e8c0bff4f439340e293fdb28110c701</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Scope">3e8c0bff4f439340e293fdb28110c701</sys_scope>
+        <sys_update_name>sys_ui_view_9e24181f4f7e6340c920fdb28110c71c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-09 15:17:10</sys_updated_on>
+        <title>NewScope</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
