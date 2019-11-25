@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="x_snc_new_scope_i01" label="i01" language="en" table="x_snc_extend_cmdb_extend_task">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>x_snc_new_scope_i01</element>
@@ -12,7 +11,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-01-02 16:58:37</sys_created_on>
-            <sys_id>1448a8094f726f00352fc5c18110c748</sys_id>
+            <sys_id>9a3163c2db1948108772832439961957</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>i01</sys_name>
             <sys_package display_value="New Scope" source="x_snc_new_scope">3e8c0bff4f439340e293fdb28110c701</sys_package>

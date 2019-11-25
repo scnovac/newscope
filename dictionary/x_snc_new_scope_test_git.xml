@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element extends="sys_import_set_row" label="test git" max_length="40" name="x_snc_new_scope_test_git" type="collection"/>
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="test git1" max_length="40" name="x_snc_new_scope_test_git" type="collection"/>
 </database>
