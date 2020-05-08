@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci_server" label="שרת UNIX" max_length="40" name="cmdb_ci_unix_server" sizeclass="7" type="collection"/>
+</database>

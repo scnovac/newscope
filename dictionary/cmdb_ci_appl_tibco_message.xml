@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci_appl" label="Tibco Enterprise Message Service" max_length="40" name="cmdb_ci_appl_tibco_message" sizeclass="0" type="collection"/>
+</database>

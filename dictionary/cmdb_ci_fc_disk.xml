@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci_san_disk" label="Fibre Channel Disk" max_length="40" name="cmdb_ci_fc_disk" sizeclass="0" type="collection"/>
+</database>

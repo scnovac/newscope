@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_snc_new_scope_new_column" label="New column" language="en" table="cmdb_ci_docker_local_image">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_snc_new_scope_new_column</element>
+            <help/>
+            <hint/>
+            <label>New column</label>
+            <language>en</language>
+            <name>cmdb_ci_docker_local_image</name>
+            <plural>New columns</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-23 16:27:16</sys_created_on>
+            <sys_id>53890074db0937805acd52f8f4961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New column</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="New Scope">3e8c0bff4f439340e293fdb28110c701</sys_scope>
+            <sys_update_name>sys_documentation_cmdb_ci_docker_local_image_x_snc_new_scope_new_column_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-23 16:27:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

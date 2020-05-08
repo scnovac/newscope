@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci" label="אמצעי אחסון" max_length="40" name="cmdb_ci_storage_volume" sizeclass="0" type="collection"/>
+</database>

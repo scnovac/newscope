@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci_config_automation_server" label="Puppet Master" max_length="40" name="cmdb_ci_puppet_master" sizeclass="0" type="collection"/>
+</database>

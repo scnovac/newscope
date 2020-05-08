@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element defaultsort="-1" dynamic_creation_script="// default on the table level is to create a server&#13;&#10;&#13;&#10;var gr = new GlideRecord(&quot;cmdb_ci_server&quot;);&#13;&#10;gr.initialize();&#13;&#10;gr.name=value;&#13;&#10;gr.insert();" extends="cmdb" label="פריט תצורה" max_length="40" name="cmdb_ci" sizeclass="1" type="collection">
+        <element label="New column" max_length="40" name="x_snc_new_scope_new_column" type="string"/>
+    </element>
+</database>

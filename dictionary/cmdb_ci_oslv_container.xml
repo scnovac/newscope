@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci" label="Operating-system-level Virtualization Container" max_length="40" name="cmdb_ci_oslv_container" sizeclass="0" type="collection"/>
+</database>

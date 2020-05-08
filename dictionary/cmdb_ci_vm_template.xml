@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci_os_template" label="Virtual Machine Template" max_length="40" name="cmdb_ci_vm_template" sizeclass="0" type="collection"/>
+</database>

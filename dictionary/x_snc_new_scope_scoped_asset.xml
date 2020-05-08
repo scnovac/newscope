@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element extends="cmdb_ci" label="Scoped asset" max_length="40" name="x_snc_new_scope_scoped_asset" type="collection"/>
-</database>

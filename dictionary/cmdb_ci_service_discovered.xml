@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci_service_auto" label="שירות יישומים" max_length="40" name="cmdb_ci_service_discovered" sizeclass="0" type="collection"/>
+</database>

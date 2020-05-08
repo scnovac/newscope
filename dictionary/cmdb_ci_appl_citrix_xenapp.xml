@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci_appl" label="Citrix XenAPP or Presentation Server" max_length="40" name="cmdb_ci_appl_citrix_xenapp" sizeclass="0" type="collection"/>
+</database>

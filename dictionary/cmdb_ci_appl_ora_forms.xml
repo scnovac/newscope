@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci_appl" label="Oracle Forms Engine" max_length="40" name="cmdb_ci_appl_ora_forms" sizeclass="0" type="collection"/>
+</database>

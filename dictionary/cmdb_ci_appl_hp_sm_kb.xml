@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci_appl" label="HP SM KnowledgeBase" max_length="40" name="cmdb_ci_appl_hp_sm_kb" sizeclass="0" type="collection"/>
+</database>

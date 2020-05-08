@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci_qualifier" label="מזהה חיבור מוסתר" max_length="40" name="cmdb_ci_qualifier_hidden_conn" sizeclass="0" type="collection"/>
+</database>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci_service" label="Business Service Group" max_length="40" name="cmdb_ci_service_group" sizeclass="1" type="collection"/>
+</database>

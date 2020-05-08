@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci_appl" label="ברוקר הודעות של IBM WebSphere" max_length="40" name="cmdb_ci_appl_ibm_wmb" sizeclass="0" type="collection"/>
+</database>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci_hardware" label="התקן אחסון בנפח גדול" max_length="40" name="cmdb_ci_msd" sizeclass="3" type="collection"/>
+</database>

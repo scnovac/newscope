@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci_infra_service" label="IP Server" max_length="40" name="cmdb_ci_ip_server" sizeclass="0" type="collection"/>
+</database>

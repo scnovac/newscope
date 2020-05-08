@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci_exchange_service_component" label="ExchangeBackEndServer" max_length="40" name="cmdb_ci_exchange_backend" sizeclass="0" type="collection"/>
+</database>

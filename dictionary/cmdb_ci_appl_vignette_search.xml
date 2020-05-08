@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci_appl" label="Vignette Search Starter" max_length="40" name="cmdb_ci_appl_vignette_search" sizeclass="0" type="collection"/>
+</database>

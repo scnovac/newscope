@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci_cluster" label="Windows Cluster" max_length="40" name="cmdb_ci_win_cluster" sizeclass="4" type="collection"/>
+</database>

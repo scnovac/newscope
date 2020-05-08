@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci_db_instance" label="DB2 Instance" max_length="40" name="cmdb_ci_db_db2_instance" sizeclass="0" type="collection"/>
+</database>
