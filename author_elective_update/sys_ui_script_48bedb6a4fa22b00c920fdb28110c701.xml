@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_script">
+    <sys_ui_script action="DELETE">
+        <active>true</active>
+        <description/>
+        <global>false</global>
+        <name>x_snc_new_scope.ASCII Scoped</name>
+        <script><![CDATA[var x_snc_new_scope = x_snc_new_scope || {};
+
+x_snc_new_scope.ASCII Scoped = (function() {
+	"use strict";
+
+	
+	
+	var LOCAL_FILE_HEADER="PK";
+/* set your private variables and functions here. For example: 
+	var privateVar = 0; 
+	function private_function() {
+		return ++privateVar;
+	}
+*/
+
+/* Share variables between multiple UI scripts by adding them to your scope object. For example: 
+	x_snc_new_scope.sharedVar = 0; 
+
+ Then access them in your scripts the same way. For example: 
+	function get_shared() {
+		return x_snc_new_scope.sharedVar;
+	}
+*/
+
+	return {
+
+/* set your public API here. For example:
+		incrementAndReturnPrivateVar: function() {
+			return private_function();
+		},
+*/
+		type:  "ASCII Scoped"
+	};
+})();
+]]></script>
+        <script_name>ASCII Scoped</script_name>
+        <sys_class_name>sys_ui_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-26 11:52:26</sys_created_on>
+        <sys_id>48bedb6a4fa22b00c920fdb28110c701</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_new_scope.ASCII Scoped</sys_name>
+        <sys_package display_value="New Scope" source="x_snc_new_scope">3e8c0bff4f439340e293fdb28110c701</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Scope">3e8c0bff4f439340e293fdb28110c701</sys_scope>
+        <sys_update_name>sys_ui_script_48bedb6a4fa22b00c920fdb28110c701</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-26 11:52:26</sys_updated_on>
+        <ui_type>0</ui_type>
+        <use_scoped_format>false</use_scoped_format>
+    </sys_ui_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="New Scope">3e8c0bff4f439340e293fdb28110c701</application>
+        <file_path/>
+        <instance_id>98329c9ddb322380b847ac44d496190a</instance_id>
+        <instance_name>empsnovac02</instance_name>
+        <name>sys_ui_script_48bedb6a4fa22b00c920fdb28110c701</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_script"&gt;&lt;sys_ui_script action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;description/&gt;&lt;global&gt;false&lt;/global&gt;&lt;name&gt;x_snc_new_scope.ASCII Scoped&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var x_snc_new_scope = x_snc_new_scope || {};
+
+x_snc_new_scope.ASCII Scoped = (function() {
+	"use strict";
+
+	
+	
+	var LOCAL_FILE_HEADER="PK";
+/* set your private variables and functions here. For example: 
+	var privateVar = 0; 
+	function private_function() {
+		return ++privateVar;
+	}
+*/
+
+/* Share variables between multiple UI scripts by adding them to your scope object. For example: 
+	x_snc_new_scope.sharedVar = 0; 
+
+ Then access them in your scripts the same way. For example: 
+	function get_shared() {
+		return x_snc_new_scope.sharedVar;
+	}
+*/
+
+	return {
+
+/* set your public API here. For example:
+		incrementAndReturnPrivateVar: function() {
+			return private_function();
+		},
+*/
+		type:  "ASCII Scoped"
+	};
+})();
+]]&gt;&lt;/script&gt;&lt;script_name&gt;ASCII Scoped&lt;/script_name&gt;&lt;sys_class_name&gt;sys_ui_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-12-26 11:52:26&lt;/sys_created_on&gt;&lt;sys_id&gt;48bedb6a4fa22b00c920fdb28110c701&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_snc_new_scope.ASCII Scoped&lt;/sys_name&gt;&lt;sys_package display_value="New Scope" source="x_snc_new_scope"&gt;3e8c0bff4f439340e293fdb28110c701&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="New Scope"&gt;3e8c0bff4f439340e293fdb28110c701&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_script_48bedb6a4fa22b00c920fdb28110c701&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-12-26 11:52:26&lt;/sys_updated_on&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;use_scoped_format&gt;false&lt;/use_scoped_format&gt;&lt;/sys_ui_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1642926287</payload_hash>
+        <record_name>x_snc_new_scope.ASCII Scoped</record_name>
+        <reverted_from/>
+        <source>506940f0db0937805acd52f8f49619af</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-23 16:33:58</sys_created_on>
+        <sys_id>651bc0fcdb4937805acd52f8f496197c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16a4b0c002b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-23 16:33:58</sys_updated_on>
+        <type>UI Script</type>
+        <update_guid>251bc0fc20493780c553ca454d30127c</update_guid>
+        <update_guid_history>9dc366996854bb00875c4edf3d409163:0,9dc366996854bb00875c4edf3d409163:0,f193ee59df54bb0072d6549dcb4e1851:-809044788,05a0e2d5dc54bb00ea598db88441a470:-1152012408</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-08 09:25:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_script">sys_ui_script</sys_db_object>
+        <sys_id>1ec89e7da01047e9b898b393d3cb5d99</sys_id>
+        <sys_metadata>48bedb6a4fa22b00c920fdb28110c701</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_new_scope.ASCII Scoped</sys_name>
+        <sys_package display_value="New Scope" source="x_snc_new_scope">3e8c0bff4f439340e293fdb28110c701</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="New Scope">3e8c0bff4f439340e293fdb28110c701</sys_scope>
+        <sys_scope_delete display_value="">40801d6a09364f80ace26d9a6a164e44</sys_scope_delete>
+        <sys_update_name>sys_ui_script_48bedb6a4fa22b00c920fdb28110c701</sys_update_name>
+        <sys_update_version display_value="sys_ui_script_48bedb6a4fa22b00c920fdb28110c701">651bc0fcdb4937805acd52f8f496197c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-08 09:25:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
