@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="cmdb_ci" label="Business Service" max_length="40" name="cmdb_ci_service" sizeclass="40" type="collection"/>
-</database>

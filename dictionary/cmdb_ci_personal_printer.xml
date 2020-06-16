@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="cmdb_ci_printer" label="מדפסת אישית" max_length="40" name="cmdb_ci_personal_printer" sizeclass="0" type="collection"/>
-</database>

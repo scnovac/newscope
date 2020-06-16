@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="cmdb_ci_kvm_object" label="אמצעי אחסון KVM" max_length="40" name="cmdb_ci_kvm_storage_volume" sizeclass="0" type="collection"/>
-</database>

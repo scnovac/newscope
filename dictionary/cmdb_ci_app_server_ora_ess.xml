@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="cmdb_ci_app_server" label="שרת Oracle Essbase" max_length="40" name="cmdb_ci_app_server_ora_ess" sizeclass="0" type="collection"/>
-</database>

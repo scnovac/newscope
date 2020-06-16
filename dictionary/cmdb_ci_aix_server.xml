@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="cmdb_ci_unix_server" label="שרת AIX" max_length="40" name="cmdb_ci_aix_server" sizeclass="2" type="collection"/>
-</database>

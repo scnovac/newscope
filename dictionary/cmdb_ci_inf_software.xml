@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="cmdb_ci_spkg" label="תוכנת תשתית" max_length="40" name="cmdb_ci_inf_software" sizeclass="0" type="collection"/>
-</database>

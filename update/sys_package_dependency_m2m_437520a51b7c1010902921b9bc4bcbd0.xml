@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">e0071855db3223005acd52f8f49619bd</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2019-03-19 10:10:53</sys_created_on>
+        <sys_id>437520a51b7c1010902921b9bc4bcbd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="New Scope" source="x_snc_new_scope">3e8c0bff4f439340e293fdb28110c701</sys_package>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-03-19 10:10:53</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="cmdb_ci" label="מרכז נתונים" max_length="40" name="cmdb_ci_datacenter" sizeclass="1" type="collection"/>
-</database>

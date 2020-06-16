@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="cmdb_ci_vm_object" label="קבוצת זמינות" max_length="40" name="cmdb_ci_availability_set" sizeclass="0" type="collection"/>
-</database>

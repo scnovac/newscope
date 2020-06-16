@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="cmdb_ci_vm_object" label="תבנית של תצלום-מצב" max_length="40" name="cmdb_ci_snapshot_template" sizeclass="0" type="collection"/>
-</database>

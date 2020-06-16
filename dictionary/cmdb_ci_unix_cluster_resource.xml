@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="cmdb_ci_cluster_resource" label="משאב אשכול UNIX" max_length="40" name="cmdb_ci_unix_cluster_resource" sizeclass="0" type="collection"/>
-</database>

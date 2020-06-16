@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="cmdb_ci_vm_object" label="מפרט של התאמה אישית" max_length="40" name="cmdb_ci_customization_spec" sizeclass="0" type="collection"/>
-</database>
