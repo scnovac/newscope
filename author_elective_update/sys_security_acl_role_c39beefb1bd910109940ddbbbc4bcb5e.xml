@@ -60,7 +60,7 @@
         <update_guid_history>c1f0be73505510106e8dadae62c6575b:-1329062043</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_snc_new_scope_new_table.x_snc_new_scope.new_table_user">045176b3db551010542ae8cd13961946</sys_audit_delete>
+        <sys_audit_delete display_value="">045176b3db551010542ae8cd13961946</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>sergiu.novac@snc</sys_created_by>
         <sys_created_on>2020-06-16 15:00:01</sys_created_on>
