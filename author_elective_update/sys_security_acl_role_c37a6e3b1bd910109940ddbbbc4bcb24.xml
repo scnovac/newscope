@@ -42,7 +42,7 @@
         <update_guid_history>077a6e3bbcd91010e7368a89c8765a28:-1381766691</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_snc_new_scope_new_table.x_snc_new_scope.new_table_user">f9ba267b1bd910109940ddbbbc4bcb7d</sys_audit_delete>
+        <sys_audit_delete display_value="">f9ba267b1bd910109940ddbbbc4bcb7d</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-16 14:31:11</sys_created_on>
