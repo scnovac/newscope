@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_snc_new_scope.scn</name>
+        <read_roles/>
+        <suffix>scn</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-17 15:11:33</sys_created_on>
+        <sys_id>be2d7f041ba590109940ddbbbc4bcb3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_new_scope.scn</sys_name>
+        <sys_package display_value="New Scope" source="x_snc_new_scope">3e8c0bff4f439340e293fdb28110c701</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Scope">3e8c0bff4f439340e293fdb28110c701</sys_scope>
+        <sys_update_name>sys_properties_be2d7f041ba590109940ddbbbc4bcb3e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-17 15:11:33</sys_updated_on>
+        <type>string</type>
+        <value>scn</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=be2d7f041ba590109940ddbbbc4bcb3e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="New Scope">3e8c0bff4f439340e293fdb28110c701</application>
+        <file_path/>
+        <instance_id>98329c9ddb322380b847ac44d496190a</instance_id>
+        <instance_name>empsnovac02</instance_name>
+        <name>sys_properties_be2d7f041ba590109940ddbbbc4bcb3e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description/><ignore_cache>false</ignore_cache><is_private>false</is_private><name>x_snc_new_scope.scn</name><read_roles/><suffix>scn</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-17 15:11:33</sys_created_on><sys_id>be2d7f041ba590109940ddbbbc4bcb3e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_new_scope.scn</sys_name><sys_package display_value="New Scope" source="x_snc_new_scope">3e8c0bff4f439340e293fdb28110c701</sys_package><sys_policy/><sys_scope display_value="New Scope">3e8c0bff4f439340e293fdb28110c701</sys_scope><sys_update_name>sys_properties_be2d7f041ba590109940ddbbbc4bcb3e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-17 15:11:33</sys_updated_on><type>string</type><value>scn</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=be2d7f041ba590109940ddbbbc4bcb3e"/></record_update>]]></payload>
+        <payload_hash>493706061</payload_hash>
+        <record_name>x_snc_new_scope.scn</record_name>
+        <reverted_from/>
+        <source>d0a95415dbb223005acd52f8f496194f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-17 15:11:35</sys_created_on>
+        <sys_id>578d7b841ba590109940ddbbbc4bcb12</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172c2d5ddb60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-17 15:11:35</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>9b8d7b84cca590107524a2d0bc92ff11</update_guid>
+        <update_guid_history>9b8d7b84cca590107524a2d0bc92ff11:493706061</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-17 15:12:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>2d1cb555b6fa4be58e40247140f778e1</sys_id>
+        <sys_metadata>be2d7f041ba590109940ddbbbc4bcb3e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_new_scope.scn</sys_name>
+        <sys_package display_value="New Scope" source="x_snc_new_scope">3e8c0bff4f439340e293fdb28110c701</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="New Scope">3e8c0bff4f439340e293fdb28110c701</sys_scope>
+        <sys_scope_delete display_value="">40801d6a09364f80ace26d9a6a164e44</sys_scope_delete>
+        <sys_update_name>sys_properties_be2d7f041ba590109940ddbbbc4bcb3e</sys_update_name>
+        <sys_update_version display_value="sys_properties_be2d7f041ba590109940ddbbbc4bcb3e">578d7b841ba590109940ddbbbc4bcb12</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-17 15:12:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
