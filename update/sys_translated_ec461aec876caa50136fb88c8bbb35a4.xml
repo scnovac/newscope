@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated">
+    <sys_translated action="INSERT_OR_UPDATE">
+        <element>name</element>
+        <id/>
+        <label>New Tab 1</label>
+        <language>en</language>
+        <name>pa_tabs</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>mahendra.pratapsingh@snc</sys_created_by>
+        <sys_created_on>2025-03-24 17:34:49</sys_created_on>
+        <sys_id>ec461aec876caa50136fb88c8bbb35a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 1</sys_name>
+        <sys_package display_value="New Scope" source="x_snc_new_scope">3e8c0bff4f439340e293fdb28110c701</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Scope">3e8c0bff4f439340e293fdb28110c701</sys_scope>
+        <sys_update_name>sys_translated_ec461aec876caa50136fb88c8bbb35a4</sys_update_name>
+        <sys_updated_by>mahendra.pratapsingh@snc</sys_updated_by>
+        <sys_updated_on>2025-03-24 17:34:49</sys_updated_on>
+        <value>d4461aec876caa50136fb88c8bbb359fNew Tab 1</value>
+    </sys_translated>
+</record_update>

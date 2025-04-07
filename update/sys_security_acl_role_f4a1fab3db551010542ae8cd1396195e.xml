@@ -14,6 +14,5 @@
         <sys_updated_by>sergiu.novac@snc</sys_updated_by>
         <sys_updated_on>2020-06-16 15:01:26</sys_updated_on>
         <sys_user_role display_value="x_snc_new_scope.new_table_user" name="x_snc_new_scope.new_table_user">e67a2e3b1bd910109940ddbbbc4bcb02</sys_user_role>
-        <transaction_id/>
     </sys_security_acl_role>
 </record_update>
